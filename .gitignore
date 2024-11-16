@@ -1,0 +1,9 @@
+# Archivos de compilación
+__pycache__/
+*.py[cod]
+
+# Entorno virtual
+/venv/
+
+# Configuración de entorno
+.env
